@@ -3,7 +3,7 @@
 _Credit to Milan Area Schools_
 
 **Fusion Bus Sales is a Roblox Sales company that strives to provide the best buses and products on Roblox!  We have testers and developers to create products to provide new game concepts.**
-
+![lineforsite](https://github.com/user-attachments/assets/eb3cb68d-1bb7-4e6f-98c9-1034ee016f09)
 **CHASSIS INFO:**
 
 - A Breakdown system
