@@ -26,8 +26,7 @@ _Credit to Milan Area Schools_
 - Exhaust effect
 - More to come in later (Var)iation(s)
 
-Docs to all products and buses (Includes rules):
-[https://ben-thedev.github.io/fusionbussalesdocs/]
+[Docs to all products and buses (Includes rules)](https://ben-thedev.github.io/fusionbussalesdocs/)
 
 ** THE VAR1 CHASSIS WAS SCRIPTED AND MADE BY BENTHEDEV, ALL RIGHTS RESERVED ©
 ![bottom bar](https://github.com/user-attachments/assets/cfe3dac1-1f38-49ed-ae1e-04bb2127ea2c)
