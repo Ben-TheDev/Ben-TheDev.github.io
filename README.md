@@ -5,6 +5,10 @@ _Credit to Milan Area Schools_
 **Fusion Bus Sales is a Roblox Sales company that strives to provide the best buses and products on Roblox!  We have testers and developers to create products to provide new game concepts.**
 ![moreinfo](https://github.com/user-attachments/assets/63cf040a-c5aa-4aff-87b1-df3367065767)
 
+[About the Developer](https://ben-thedev.github.io/FusionBusSalesAboutTheDeveloper/)
+
+[Docs to all products and buses (Includes rules)](https://ben-thedev.github.io/fusionbussalesdocs/)
+
 **CHASSIS INFO:**
 
 - A Breakdown system
@@ -27,6 +31,8 @@ _Credit to Milan Area Schools_
 - More to come in later (Var)iation(s)
 
 [Docs to all products and buses (Includes rules)](https://ben-thedev.github.io/fusionbussalesdocs/)
+
+[About the Developer](https://ben-thedev.github.io/FusionBusSalesAboutTheDeveloper/)
 
 ** THE VAR1 CHASSIS WAS SCRIPTED AND MADE BY BENTHEDEV, ALL RIGHTS RESERVED ©
 ![bottom bar](https://github.com/user-attachments/assets/cfe3dac1-1f38-49ed-ae1e-04bb2127ea2c)
