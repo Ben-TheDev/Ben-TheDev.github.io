@@ -8,6 +8,6 @@
 
 ** THE VAR1 CHASSIS WAS SCRIPTED AND MADE BY BENTHEDEV, ALL RIGHTS RESERVED ©
 ![bottom bar](https://github.com/user-attachments/assets/cfe3dac1-1f38-49ed-ae1e-04bb2127ea2c)
-<a href="#" class="button">Post comment (link)</a>
-<input class="button" type="submit" value="Post comment (input)">
-<button class="button" type="submit">Post comment (button)</button>
+
+<input class="button" type="submit" value="Docs">
+
